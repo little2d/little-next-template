@@ -1,8 +1,11 @@
+import FullscreenBlock from 'components/FullscreenBlock';
 import Nav from 'components/Nav';
 
 const IndexPage = () => (
   <>
-    <Nav />
+    <FullscreenBlock>
+      <Nav />
+    </FullscreenBlock>
   </>
 );
 
