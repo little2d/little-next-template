@@ -12,5 +12,9 @@
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
   },
-  "packageManager": "yarn@3.1.0"
+  "packageManager": "yarn@3.1.0",
+  "devDependencies": {
+    "eslint": "^8.2.0",
+    "eslint-plugin-react": "^7.27.0"
+  }
 }
