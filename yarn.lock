@@ -2233,9 +2233,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"little.moe@workspace:.":
+"little-next-template@workspace:.":
   version: 0.0.0-use.local
-  resolution: "little.moe@workspace:."
+  resolution: "little-next-template@workspace:."
   dependencies:
     eslint: ^8.2.0
     eslint-plugin-react: ^7.27.0

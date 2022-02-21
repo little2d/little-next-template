@@ -1,3 +1,3 @@
-# little.moe
+# little-next-template
 
-New weebsite, work-in-progress.
+My template for Next.js projects
